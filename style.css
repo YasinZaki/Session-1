@@ -1,0 +1,33 @@
+/*type selector*/
+body{
+  text-align: center;
+  background-color: #000000;
+  margin:0pt;
+}
+
+/*type selector*/
+h1{
+  color: #ffffff;
+  font-size: 40pt;
+  font-family: ariel;
+}
+h2{
+  color: #ffffff;
+  font-size: 20pt;
+  font-family: ariel;
+}
+li{
+  color: #ffffff;
+}
+
+
+/*class selector*/
+#Home{
+  font-weight: bold;
+}
+
+
+/*id selector*/
+#paral{
+  color: #ffffff;
+}
